@@ -1,6 +1,7 @@
 # quiz_app
 
-A new Flutter project.
+An app that I created while learning Flutter basics.
+I have cloned the app from https://github.com/academind which the instructed showed us to understand the syntax and analyse the app.
 
 ## Getting Started
 
